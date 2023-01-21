@@ -1,0 +1,14 @@
+.length {
+    width: 41px;
+    height: 25px;
+    margin: 40px 0 40px 113px;
+    font-size: 20px;
+    background-color: #6cd7b9;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .length {
+        margin: 10px 0;
+    }
+}

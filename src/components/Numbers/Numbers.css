@@ -1,0 +1,11 @@
+.numbers {
+    width: 30px;
+    height: 23px;
+    margin: 0px 0 15px 130px;
+}
+
+@media (max-width: 768px) {
+    .numbers {
+        margin: 0 2px 0 10px;
+    }
+}

@@ -1,0 +1,18 @@
+.copy {
+    width: 68px;
+    height: 49px;
+    background: #3AB38F;
+    color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.copy:hover {
+    background-color: #047b58;
+}
+
+.copy:active {
+    background-color: #000000;
+}

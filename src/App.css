@@ -1,0 +1,19 @@
+.App {
+  width: 477px;
+  height: 540px;
+  background-color: #6D9776;
+  border: 5px solid #000000;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 36px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .App {
+    width: 300px;
+    font-size: 25px;
+    height: 350px;
+    margin-top: 200px;
+  }
+}

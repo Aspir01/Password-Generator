@@ -1,0 +1,24 @@
+.generate {
+    width: fit-content;
+    height: 49px;
+    background: #3AB38F;
+    color: #ffffff;
+    font-size: 30px;
+    border-radius: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 90px;
+}
+
+.generate:hover {
+    background-color: #047b58;
+}
+
+.generate:active {
+    background-color: #000000
+}
+
+@media (max-width: 768px) {
+    .generate {
+        margin-top: 30px;
+    }
+}

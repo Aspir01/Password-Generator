@@ -1,0 +1,11 @@
+.symbols {
+    width: 30px;
+    height: 23px;
+    margin: 40px 0 40px 139px;
+}
+
+@media (max-width: 768px) {
+    .symbols {
+        margin: 0 2px 0 18px;
+    }
+}
