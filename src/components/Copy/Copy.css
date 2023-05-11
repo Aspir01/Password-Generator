@@ -7,10 +7,12 @@
     font-weight: bold;
     font-size: 20px;
     border-radius: 15px;
+    transition: 0.5s;
 }
 
 .copy:hover {
     background-color: #047b58;
+    cursor: pointer;
 }
 
 .copy:active {

@@ -7,6 +7,9 @@
     border-radius: 15px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-top: 90px;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-top: 40px;
 }
 
 .generate:hover {
