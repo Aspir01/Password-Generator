@@ -1,6 +1,6 @@
 .generate {
-    width: fit-content;
-    height: 49px;
+    width: 300px;
+    height: 59px;
     background: #3AB38F;
     color: #ffffff;
     font-size: 30px;
@@ -10,6 +10,7 @@
     transition: 0.5s;
     cursor: pointer;
     margin-top: 40px;
+    border: 2px solid #07533c;
 }
 
 .generate:hover {
@@ -23,5 +24,7 @@
 @media (max-width: 768px) {
     .generate {
         margin-top: 30px;
+        font-size: 20px;
+        width: 200px;
     }
 }

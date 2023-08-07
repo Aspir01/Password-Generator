@@ -7,6 +7,10 @@
     color: white;
 }
 
+input[type=checkbox] {
+    cursor: pointer;
+}
+
 @media (max-width: 768px) {
     .length {
         margin: 10px 0;
